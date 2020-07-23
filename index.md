@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+---
+layout: default
+description: ScienSlackのホームページ
+---
 
-You can use the [editor on GitHub](https://github.com/ScienSlack/ScienSlack.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## ScienSlackへようこそ
 
-### Markdown
+ScienSlackは科学を学び楽しむすべての人のためのSlackです。
+科学は自然科学・人文科学の両方を含めています。
+大学生や大学院生、社会人などなど、どなたの参加も歓迎しています。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### ScienSlackの参加方法
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ScienSlack/ScienSlack.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+この[リンク](https://join.slack.com/t/scien-slack/shared_invite/zt-eqs433g2-fPc671O9jlcHrhT~JSnNBw)から参加することができます

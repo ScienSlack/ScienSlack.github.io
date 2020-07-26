@@ -27,6 +27,7 @@
 
 1. さいえんSlackに参加する
 2. #online-offline-meeting-1st チャンネルに参加する．(このチャンネルに参加をもって参加登録とします)
+3. #online-offline-meeting-1st にてZoomのリンクを公開するのでそこから参加する。
 
 ## 世話人
 * ひゃまひょう

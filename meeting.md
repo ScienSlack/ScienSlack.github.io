@@ -12,7 +12,7 @@
 | 13:05~13:30 | ぷりん | 線形安定論〜超ショートコース〜 |
 | 13:30~13:50 | そくらてす | 分離論理入門のようなもの [スライド](https://sokratesnil.github.io/pdfs/SL_handout.pdf) [参考資料](https://sokratesnil.github.io/pdfs/SL.pdf) |
 | 13:50~14:15 | monariz | CNNによるComputerVisionの基本（機械学習未経験者向け） |
-| 14:30~14:55 | horiem | 有限要素法を機械学習したい！ |
+| 14:30~14:55 | horiem | 有限要素法を機械学習したい！ [スライド](https://speakerdeck.com/yellowshippo/you-xian-yao-su-fa-woji-jie-xue-xi-sitai) |
 | 14:55~15:20 | Oddie | 多重ゼータ値について |
 | 15:35~16:00 | NI | ハイスピード撮影で音色の違いを観察する |
 | 16:00~16:20 | Kgm1500 | 行列の関数と数値計算 |
